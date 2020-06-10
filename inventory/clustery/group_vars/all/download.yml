@@ -1,0 +1,3 @@
+kubelet_download_url: http://172.31.0.4:8000/kubeadm_hasher/kubelet-v1.18.3-amd64
+kubeadm_download_url: http://172.31.0.4:8000/kubeadm_hasher/kubeadm-v1.18.3-amd64
+kubectl_download_url: http://172.31.0.4:8000/kubeadm_hasher/kubectl-v1.18.3-amd64
